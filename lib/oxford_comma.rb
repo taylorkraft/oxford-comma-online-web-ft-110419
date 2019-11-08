@@ -1,8 +1,3 @@
-def oxford_comma(array)
-  if array.length < 2
-    puts ","
-  else 
-    puts "and"
+def oxford_comma(array
 array.join
-end
 end
