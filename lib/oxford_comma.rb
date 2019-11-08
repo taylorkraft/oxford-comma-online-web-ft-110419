@@ -8,3 +8,4 @@ def oxford_comma(array)
   else array.length > 3 
     puts array.join << element
   end
+end
