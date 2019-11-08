@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  if index < 2
+  if array.length < 2
     puts ","
   else 
     puts "and"
